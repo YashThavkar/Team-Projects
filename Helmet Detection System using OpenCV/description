@@ -1,0 +1,4 @@
+"In our third-year bachelor's team project, we developed a Helmet Detection System using OpenCV during the COVID-19 pandemic, addressing the issue of ensuring biker safety. 
+"The project aimed to detect whether riders were wearing helmets by analyzing real-time video feeds. 
+"Using OpenCV for image processing and detection, we trained the system to identify helmet usage with increased accuracy by leveraging real-world video data during testing. 
+"This project not only emphasized road safety but also provided hands-on experience in computer vision and real-time application development.
